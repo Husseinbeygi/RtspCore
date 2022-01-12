@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RTSP", "RTSP\RTSP.csproj", "{8422675D-9765-43A2-9E6F-5456B5B9B897}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RtspMultiplexer", "RtspMultiplexer\RtspMultiplexer.csproj", "{0F9DD151-BF5E-4187-8F78-589F4C4EBCB5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{8422675D-9765-43A2-9E6F-5456B5B9B897}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8422675D-9765-43A2-9E6F-5456B5B9B897}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8422675D-9765-43A2-9E6F-5456B5B9B897}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F9DD151-BF5E-4187-8F78-589F4C4EBCB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F9DD151-BF5E-4187-8F78-589F4C4EBCB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F9DD151-BF5E-4187-8F78-589F4C4EBCB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F9DD151-BF5E-4187-8F78-589F4C4EBCB5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
