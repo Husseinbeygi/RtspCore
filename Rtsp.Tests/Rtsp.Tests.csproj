@@ -19,16 +19,4 @@
     <ProjectReference Include="..\RtspMultiplexer\RtspMultiplexer.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <None Update="Sdp\Data\test1.sdp">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </None>
-    <None Update="Sdp\Data\test2.sdp">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </None>
-    <None Update="Sdp\Data\test3.sdp">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </None>
-  </ItemGroup>
-
 </Project>
